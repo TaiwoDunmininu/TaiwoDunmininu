@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**TaiwoDunmininu/TaiwoDunmininu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## TaiwoDunmininu/TaiwoDunmininu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently exploring the world of Data Analytics.
 - 🌱 I’m currently learning Data Analysis in the NG30 Days of learning track, Datacamp and coursera.
